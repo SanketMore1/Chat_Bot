@@ -26,11 +26,10 @@ MySQL DB
 2. Accuracy and Precision of responses can be further enhaced with proper training data.
 
 # Deployment(In process)
-
-
 online integration with online instance of mysql db really takes time beacause things need to to be integrated and each of the available service has own pros and cons. and for a newbie who haven't explored it enough or primarily not working on cloud based integrations it will take time.
 but with time getting the pace and will understand the things . 
 tried multiple services today:
+-----------------------
 Heroku - for deployment ( they are changing there model of services which come in effect from tomorrow . Man!)
 Netlify - for  deployment ( yay ! it's way easier)
 -----------------------
