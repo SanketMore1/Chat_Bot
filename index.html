@@ -9,12 +9,7 @@
     <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
 </head>
 <body>
-    <?php
-  $mysqli = mysqli_init();
-  $mysqli->ssl_set(NULL, NULL, "/etc/ssl/certs/ca-certificates.crt", NULL, NULL);
-  $mysqli->real_connect($_ENV["HOST"], $_ENV["USERNAME"], $_ENV["PASSWORD"], $_ENV["DATABASE"]);
-  $mysqli->close();
-?>
+  
     <div class="wrapper">
         <div class="title">Simple Online Chatbot</div>
         <div class="form">
