@@ -42,3 +42,9 @@ got the  domain name .tk extension.
 first went with PlanetScale db service but haven't  got anything.
 then got mad by experiencing super slow service of phpmyadmin.co .
 NO WORRIES .... will find our way...
+
+<p align="center">
+  <img src="https://github.com/SanketMore1/Chat_Bot/blob/main/chat_bot_demo.png" width="350" title="hover text">
+  <img src="(https://github.com/SanketMore1/Chat_Bot/blob/main/chat_bot_demo.png)" alt="accessibility text">
+</p>
+
