@@ -1,4 +1,4 @@
-# Chat_Bot http://www.chatwithcandyg.tk/
+# Chat_Bot http://www.candyg.tk/
 Chat_Bot created for realtime responses to the user quiries.
 
 
